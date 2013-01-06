@@ -118,7 +118,7 @@ public class SavewordsActivity extends Activity {
 				elementos = getTextFromWeb(lang, wordInput);
 			}
 
-			// El primer elemento es la pronunciacion, el resto es cada uno una
+			// El primer elemento es la pronunciacion deberia), el resto es cada uno una
 			// acepcion
 			try {
 				if (!elementos.isEmpty()) {
