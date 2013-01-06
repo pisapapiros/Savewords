@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SavewordsActivity!</string>
+    <string name="app_name">Savewords</string>
+
+    <color name="Negro">#000000</color>
+    <color name="BlancoGrisaceo">#F0F0F0</color>
+    <color name="Perla">#F3F3F3</color>
+    <color name="Azul">#6664FF</color>
+    <color name="RojoAnaranjado">#F95F1C</color>
+    <color name="Rojo">#FF0000</color>
+    <color name="Verde">#A4C639</color>
+    <color name="Amarillo">#FFCC00</color>
+    <color name="Lila">#E098F6</color>
+    <color name="Blanco">#FFFFFF</color>
+
+</resources>
